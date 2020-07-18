@@ -1,0 +1,9 @@
+displayName = LavaBucket
+author = Lava-er 岩浆君
+version = 0.1.0.2
+hideResources = false
+hideCode = false
+includeSource = true
+includePDB = true
+languageVersion = 6
+buildIgnore = *.csproj, *.sln, obj\*, bin\*, *.suo, *.user, .git\*, .vs\*, Libraries\*

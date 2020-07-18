@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cb9P8UmcYVDYst9NgEA33pS7RfmOMW07fOjXlOp7uD3pKYx+Ssxapm4GBzvnb7P66xuedRIZNtdc89SeoY9Jow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\18202\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\LavaBucket\\LavaBucket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\18202\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
